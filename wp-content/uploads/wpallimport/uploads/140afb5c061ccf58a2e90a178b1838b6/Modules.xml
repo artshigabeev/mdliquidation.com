@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[BIS DSC-XP Module (185-0124)]]></name>
+	</node>
+	<node>
+		<name><![CDATA[BIS X Module (185-0145-PH)]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda E-PRETN Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda E-PSM Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda E-NSATX SpO2 OxiMax Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda E-PRESTN Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-ESTP Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-NETPR Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-NIBP Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-PRESTN Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-PRETN Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda M-REC Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Patient Data Module - PDM]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE CapnoFlex LF CO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Carescape B850 Module Rack]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Capnostat Mainstream CO2 Sensor]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE CapnoFlex LF Submin Connector]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Marquette Cam 14 Acquisition Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Marquette 250SL Tram Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Marquette 451M Tram Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Marquette 451N Tram Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Marquette 451N5 Nellcor OxiMax SpO2 Tram Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1002A ECG Respiratory Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1002B ECG Respiratory Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1006A Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1006B Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1006B Module (w/ Pressure Option)]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1008A NIBP/NBP Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1008B NIBP/NBP Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1012A Cardiac Output Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1016A Mainstream CO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1020A SpO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1020B SpO2 Masimo Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1020B SpO2 Nellcor Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1029A Temperature Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1032A Vuelink Interface Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1034A BIS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1116B Recorder Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3000A Module Option A01C06]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A01]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A01C06]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A01C18]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A02]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A02C18]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A03C06]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A04]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3001A Module Option A04C06]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A01 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A01C06 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[ Philips M3002 X2 Option A01C18 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A03 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A03C06 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A03C18 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3002 X2 Option A04C06 Monitor/Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3012A MMS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3012A Option C05 with Cardiac Output MMS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3012A Option C06 MMS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3012A Option C05 with Cardiac Output & Dual C06 MMS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3014A CO2 MMS Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3015A CO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M3015A CO2 Module Option C06]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Phillips M3016 CO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips SureSigns VS3 Temp Module (Side Mounted)]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1034A BIS Module Power Link]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M2501A Mainstream CO2 Sensor]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Spacelabs 90496 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Spacelabs 91517 etcO2 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Spacelabs 90478 Module]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Spacelabs 91496 Module]]></name>
+	</node>
+</data>

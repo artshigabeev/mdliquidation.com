@@ -1,0 +1,571 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2580                
+POS_VISITOR 13133               
+POS_DAY 17306               
+POS_DOMAIN 3329                
+POS_LOGIN 3671                
+POS_ROBOT 3826                
+POS_WORMS 4451                
+POS_EMAILSENDER 4582                
+POS_EMAILRECEIVER 4725                
+POS_SESSION 17979               
+POS_SIDER 18137               
+POS_FILETYPES 4860                
+POS_OS 4980                
+POS_BROWSER 5087                
+POS_SCREENSIZE 5315                
+POS_UNKNOWNREFERER 5389                
+POS_UNKNOWNREFERERBROWSER 5939                
+POS_ORIGIN 6323                
+POS_SEREFERRALS 6458                
+POS_PAGEREFS 6613                
+POS_SEARCHWORDS 6942                
+POS_KEYWORDS 7118                
+POS_MISC 2244                
+POS_ERRORS 7201                
+POS_CLUSTER 3527                
+POS_SIDER_404 7312                
+POS_PLUGIN_geoip_city_maxmind 12331               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130701000735 72 11127 8342395421147
+FirstTime 0
+LastTime 20130630224810
+LastUpdate 20130701184140 72 0 71 0 0
+TotalVisits 325                 
+TotalUnique 109                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 109                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 28 63671 50 52 83778
+1 3 27 356437 62 72 95621
+2 26 26 53560 55 56 147635
+3 1 7 49507 63 64 107819
+4 26 26 53560 68 69 165242
+5 0 0 0 106 106 131211
+6 22 22 45320 68 75 166040
+7 2 2 3220 45 45 73558
+8 25 25 51500 63 64 93139
+9 2 4 13331 44 51 122430
+10 27 45 229719 65 113 400058
+11 4 4 7284 70 73 87690
+12 24 24 49440 55 55 80637
+13 1 1 2060 65 66 98177
+14 25 25 51500 60 62 105080
+15 2 14 179378 54 71 244791
+16 27 27 55620 60 66 104448
+17 1 1 1123 67 71 93622
+18 27 27 55620 49 51 77693
+19 1 13 178218 53 57 86098
+20 26 30 84378 55 62 85367
+21 2 2 4120 52 52 81109
+22 29 29 58840 47 52 83951
+23 0 0 0 64 65 102277
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+jp 191 191 393460
+cn 108 108 221580
+us 18 90 952844
+unknown 3 3 6180
+il 2 4 12431
+nl 2 2 4120
+lt 2 2 4120
+de 2 2 3164
+ca 1 7 49507
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+baiduspider 776 1601181 20130630232807 0
+yandex 74 80036 20130629004155 0
+googlebot 57 285641 20130629223215 0
+bspider 54 70455 20130630074645 0
+no_user_agent 39 291777 20130630100336 0
+msnbot 28 31444 20130630052049 0
+bot[+:,\.\;\/\\-] 17 57219 20130630165319 0
+surveybot 6 6738 20130630112215 0
+spider 5 5615 20130630134014 0
+netcraft 3 2060 20130607225846 0
+python 1 2060 20130628005618 0
+msnbot\-media 2 132034 20130626041038 0
+crawl 2 4120 20130604015114 0
+nutch 2 2246 20130628051741 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 16 80888 0 0
+png 36 643555 0 0
+html 329 662729 0 0
+js 28 260234 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 45
+winxp 24
+winlong 301
+win2003 3
+winnt 23
+Unknown 8
+linux 5
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+msie6.0 1
+mozilla 2
+firefox1.0 2
+firefox14.0.1 1
+msie7.0 309
+firefox16.0 3
+firefox21.0 14
+firefox4.0 1
+wget 1
+msie9.0 1
+firefox3.5.2 1
+lynx 2
+Unknown 4
+safari 66
+firefox3.0.5 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+\ 20130617155305
+Mozilla/6.0_(compatible) 20130629091015
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130617111807
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130613202627
+Mozilla/5.0_(compatible) 20130629091039
+Web-sniffer.me/1.0.0_(_http://web-sniffer.me/) 20130612045139
+NCBot_(http://netcomber.com_:_tool_for_finding_true_domain_owners)_Queries/complaints:_bot@netcomber.com 20130604115018
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+\ 20130617155305
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130613202627
+Web-sniffer.me/1.0.0_(_http://web-sniffer.me/) 20130612045139
+NCBot_(http://netcomber.com_:_tool_for_finding_true_domain_owners)_Queries/complaints:_bot@netcomber.com 20130604115018
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 320 322
+From1 0 0
+From2 1 1
+From3 6 6
+From4 2 80
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://alphaviridis.com 2 2
+http://evuln.com/tools/malware-scanner/www.microngenesis.com/ 1 1
+http://netcomber.com 1 1
+http://www.alphaviridis.com 1 1
+http://reimagineclean.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.microngenesis.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.microngenesis.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 3 6724
+400 1 335
+404 500 337786
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 125
+/sitemap.xml 1 -
+/robots.txt 169 -
+/a/yinyinqingseyingyuan/20110115/111.html 3 -
+/a/mianfeisanjipianwangzhi/list_3_1.html 2 -
+/a/yinyinqingseyingyuan/20110111/21.html 3 -
+/admin.php 2 -
+/a/yinyinqingseyingyuan/20110111/25.html 5 -
+/a/yinyinqingseyingyuan/ 7 -
+/img/body-bg-4.png 1 -
+/a/mingxingseqingdianying/20110117/123.html 3 -
+/trafficbasedsspsitemap.xml 21 -
+/a/yinyinqingseyingyuan/20110111/10.html 3 -
+/a/266gaogaoqingmianfeichengrenyingyuan/ 2 -
+/MySQL/main.php 1 -
+/css/body-bg-1.png 1 -
+/a/yinyinqingseyingyuan/20110111/1.html 3 -
+/img/footer-border-violet.png 1 -
+/mysqladmin/main.php 1 -
+/a/yinyinqingseyingyuan/20110123/151.html 2 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/ 2 -
+/a/yinyinqingseyingyuan/20110111/62.html 3 -
+/a/yinyinqingseyingyuan/20110113/97.html 3 -
+/img/body-bg-1.png 10 http://microngenesis.com/
+/img/footer-border-green.png 9 http://microngenesis.com/
+/a/yinyinqingseyingyuan/20110111/11.html 4 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/85.html 5 -
+/a/yinyinqingseyingyuan/20110111/3.html 4 -
+/a/yinyinqingseyingyuan/20110113/90.html 4 -
+/img/footer-border-red.png 1 -
+/a/mianfeisanjipianwangzhi/20110117/118.html 3 -
+/a/yinyinqingseyingyuan/list_1_2.html 6 -
+/img/cross-gray.png 1 -
+/a/yinyinqingseyingyuan/20110111/50.html 2 -
+/dbadmin/main.php 1 -
+/img/body-bg-2.png 1 -
+/a/yinyinqingseyingyuan/20110111/84.html 2 -
+/a/yinyinqingseyingyuan/20110111/59.html 4 -
+/%70%68%70%70%61%74%68/%70%68%70 1 -
+/a/yinyinqingseyingyuan/20110111/69.html 5 -
+/img/circle-red.png 1 -
+/a/mianfeisanjipianwangzhi/20110117/116.html 6 -
+/a/mianfeisanjipianwangzhi/20110111/51.html 1 http://50.6.218.85/
+/HNAP1/ 1 http://50.6.218.85/
+/img/notifyme-red.png 1 -
+/myadmin/scripts/setup.php 1 -
+/mysql/main.php 1 -
+/administrator/ 2 -
+/img/submit-orange.png 1 -
+/a/yinyinqingseyingyuan/20110111/64.html 5 -
+/db/main.php 1 -
+/plus/flink.php 1 -
+/img/notifyme-violet.png 1 -
+/a/mingxingseqingdianying/20110115/110.html 4 -
+/img/submit-violet.png 1 -
+/phpMyAdmin/scripts/setup.php 2 -
+/a/yinyinqingseyingyuan/list_1_4.html 3 -
+http://gameframe.net/headers 1 -
+/wp-login.php 4 -
+/a/mingxingseqingdianying/20110111/5.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110123/160.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110117/120.html 4 -
+/admin/ 1 -
+/img/submit-red.png 1 -
+/img/footer-border-orange.png 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/list_2_2.html 1 http://50.6.218.85/
+/mysqladmin/scripts/setup.php 1 -
+/a/mianfeisanjipianwangzhi/20110123/159.html 4 -
+/w00tw00t.at.blackhats.romanian.anti-sec:) 1 -
+/mysql/scripts/setup.php 1 -
+/a/yinyinqingseyingyuan/20110120/132.html 4 -
+/a/mingxingseqingdianying/20110117/117.html 3 -
+/dbadmin/scripts/setup.php 1 -
+/img/submit-green.png 1 -
+/css/fonts/bebasneue-webfont.svg 8 http://microngenesis.com/
+/MyAdmin/scripts/setup.php 1 -
+/a/yinyinqingseyingyuan/20110120/148.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/41.html 1 -
+/a/yinyinqingseyingyuan/20110123/153.html 3 -
+/MySQL/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 2 -
+/img/secondary-decor.png 1 -
+/img/circle-violet.png 1 -
+/pma/main.php 1 -
+/a/mianfeisanjipianwangzhi/ 1 -
+/components/com_user/views/reset/mod.php 1 -
+/a/mianfeisanjipianwangzhi/20110111/28.html 1 http://50.6.218.85/
+/user/soapCaller.bs 1 -
+/a/yinyinqingseyingyuan/20110111/54.html 3 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110115/113.html 4 -
+/phppath/php 4 -
+/a/yinyinqingseyingyuan/20110111/31.html 4 -
+/a/yinyinqingseyingyuan/20110111/27.html 4 -
+/a/266gaogaoqingmianfeichengrenyingyuan/list_2_3.html 1 http://50.6.218.85/
+/phpMyAdmin/main.php 1 -
+/icons/apache_pb.gif 1 -
+/a/yinyinqingseyingyuan/20110113/105.html 3 -
+/a/yinyinqingseyingyuan/20110113/87.html 4 -
+/a/yinyinqingseyingyuan/20110113/104.html 3 -
+/a/yinyinqingseyingyuan/20110113/89.html 5 -
+/administrator/index.php 3 -
+/css/fonts/bebasneue-webfont.woff 8 http://microngenesis.com/
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/103.html 1 -
+/a/yinyinqingseyingyuan/20110123/156.html 3 http://50.6.218.85/
+/phpmyadmin/main.php 1 -
+/myadmin/main.php 1 -
+/a/yinyinqingseyingyuan/list_1_1.html 4 -
+/a/mingxingseqingdianying/20110113/101.html 3 -
+/css/fonts/bebasneue-webfont.ttf 9 http://microngenesis.com/
+/a/mingxingseqingdianying/20110120/142.html 3 -
+/a/yinyinqingseyingyuan/list_1_3.html 3 -
+/pma/scripts/setup.php 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/33.html 6 -
+/manager/html 2 -
+/db/scripts/setup.php 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/43.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/70.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/29.html 1 -
+/img/settings-button.png 1 -
+/a/mingxingseqingdianying/20110117/125.html 4 -
+/a/yinyinqingseyingyuan/20110115/114.html 3 -
+/a/mingxingseqingdianying/20110120/136.html 3 -
+/data/rssmap.html 2 -
+/data/sitemap.html 2 -
+/a/yinyinqingseyingyuan/20110111/58.html 3 -
+/a/mingxingseqingdianying/20110123/158.html 3 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 19
+unknown 0 199 0 0
+cn_shenzhen_30 0 107 0 0
+us_bloomingdale_il 0 40 0 0
+us_columbus_oh 0 20 0 0
+us_hoffman%20estates_il 0 13 0 0
+ca_ottawa_on 0 7 0 0
+us_broomfield_co 0 5 0 0
+us_potomac_md 0 3 0 0
+lt_vilnius_65 0 2 0 0
+us_sterling_va 0 2 0 0
+us_oxnard_ca 0 1 0 0
+de_kiez_12 0 1 0 0
+us_los%20alamitos_ca 0 1 0 0
+us_houston_tx 0 2 0 0
+cn_tianjin_28 0 1 0 0
+us_philadelphia_pa 0 1 0 0
+us_overland%20park_ks 0 1 0 0
+nl_amsterdam_07 0 2 0 0
+il_tel%20aviv_05 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 109
+119.63.193.132 35 35 72100 20130630104751
+119.63.193.130 34 34 70040 20130630144216
+119.63.193.194 34 34 70040 20130630064009
+119.63.193.196 31 31 63860 20130630184048
+119.63.193.131 29 29 59740 20130630224810
+119.63.193.195 28 28 57680 20130630084231
+202.46.59.48 4 4 8240 20130625124132
+99.52.168.139 4 40 534655 20130623010847
+202.46.51.46 3 3 6180 20130629103951
+202.46.63.43 3 3 6180 20130626084224
+202.46.53.62 1 1 2060 20130619124216
+202.46.61.32 1 1 2060 20130622103948
+202.46.57.81 1 1 2060 20130628164125
+202.46.55.36 1 1 2060 20130621184001
+202.46.60.19 1 1 2060 20130617124215
+123.151.42.169 1 1 1160 20130617155305
+202.46.52.36 1 1 2060 20130623004139
+202.46.56.55 1 1 2060 20130622084244
+202.46.50.11 1 1 2060 20130624184100
+202.46.62.18 1 1 2060 20130624084237
+96.227.124.38 1 1 2060 20130610222428
+202.46.56.56 1 1 2060 20130620024250
+202.46.62.26 1 1 2060 20130627144218
+202.46.57.66 1 1 2060 20130615103838
+67.184.94.35 1 13 178218 20130614151926
+202.46.63.70 1 1 2060 20130619164021
+69.58.178.58 2 2 4120 20130613202627
+74.52.245.146 2 2 4120 20130620184513
+216.38.216.101 1 5 32878 20130612202524
+144.76.76.178 1 1 2060 20130602070436
+202.46.59.70 1 1 2060 20130618004131
+202.46.62.97 2 2 4120 20130620103944
+202.46.55.55 2 2 4120 20130619024129
+202.46.55.33 2 2 4120 20130617084210
+202.46.50.72 2 2 4120 20130625024233
+202.46.56.44 1 1 2060 20130622184020
+202.46.51.41 1 1 2060 20130627063942
+202.46.62.23 2 2 4120 20130623103930
+202.46.54.47 2 2 4120 20130626103930
+192.114.71.13 1 1 1160 20130629070247
+202.46.54.54 1 1 2060 20130622223954
+202.46.49.74 1 1 2060 20130625084300
+71.177.184.59 1 1 1123 20130608173847
+202.46.62.34 1 1 2060 20130627004057
+202.46.48.27 1 1 2060 20130628223929
+202.46.56.50 1 1 2060 20130629183958
+202.46.54.48 1 1 2060 20130615144204
+202.46.60.67 1 1 2060 20130618184000
+202.46.48.15 1 1 2060 20130627084232
+136.169.10.10 1 1 2060 20130606132218
+202.46.50.158 2 2 4120 20130628044026
+202.46.63.124 1 1 2060 20130629064005
+202.46.63.129 1 1 2060 20130625204211
+198.27.66.35 1 1 2060 20130615210140
+85.25.137.24 1 1 1104 20130604115018
+202.46.50.71 1 1 2060 20130618063953
+202.46.49.12 2 2 4120 20130629124239
+202.46.62.94 1 1 2060 20130623184002
+202.46.54.39 1 1 2060 20130615124148
+202.46.55.58 2 2 4120 20130626124143
+202.46.53.31 2 2 4120 20130623224039
+202.46.58.21 1 1 2060 20130622164118
+202.46.54.42 1 1 2060 20130624164127
+202.46.50.18 1 1 2060 20130627184050
+78.158.11.226 2 2 4120 20130617111807
+202.46.53.32 1 1 2060 20130618084249
+202.46.55.28 2 2 4120 20130627024229
+131.253.24.142 1 7 49507 20130628034126
+202.46.61.147 1 1 2060 20130618224026
+202.46.52.28 2 2 4120 20130624124200
+202.46.48.17 1 1 2060 20130615064547
+202.46.59.46 1 1 2060 20130616164043
+176.31.14.28 1 1 2060 20130610115803
+38.100.21.62 1 3 12171 20130615005826
+202.46.49.71 1 1 2060 20130619224759
+202.46.54.34 1 1 2060 20130624004120
+202.46.53.69 1 1 2060 20130630064002
+202.46.58.23 1 1 2060 20130617224025
+202.46.54.52 1 1 2060 20130622144211
+199.217.119.4 1 1 2060 20130612045139
+202.46.61.31 1 1 2060 20130630204536
+216.240.136.96 1 1 2060 20130614224353
+202.46.60.15 1 1 2060 20130628144212
+202.46.61.34 2 2 4120 20130626004051
+202.46.58.34 1 1 2060 20130618044008
+202.46.62.92 1 1 2060 20130623204201
+202.46.52.30 1 1 2060 20130616084130
+202.46.63.78 1 1 2060 20130615184001
+202.46.56.43 2 2 4120 20130626144140
+202.46.63.41 1 1 2060 20130630104728
+206.225.83.83 1 1 1160 20130612222559
+202.46.49.18 1 1 2060 20130626164037
+202.46.52.35 1 1 2060 20130629224756
+94.102.51.246 2 2 4120 20130629093417
+202.46.49.16 1 1 2060 20130625184021
+62.219.8.229 1 3 11271 20130629091015
+202.46.49.127 3 3 6180 20130622044050
+202.46.54.40 2 2 4120 20130630224748
+202.46.63.75 1 1 2060 20130624024243
+98.130.1.65 2 20 178219 20130603102108
+202.46.52.25 2 2 4120 20130624103935
+202.46.55.27 1 1 2060 20130617004133
+202.46.48.13 1 1 2060 20130627164628
+202.46.52.20 1 1 2060 20130616044025
+202.46.62.12 2 2 4120 20130624044638
+202.46.62.32 1 1 2060 20130625004214
+202.46.57.83 1 1 2060 20130628084246
+202.46.51.48 2 2 4120 20130622024247
+202.46.55.25 1 1 2060 20130628184013
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20130602 1 1 2060 1
+20130603 2 20 178219 1
+20130604 1 1 1104 1
+20130606 1 1 2060 1
+20130607 1 1 2060 1
+20130608 1 1 1123 1
+20130610 2 2 4120 2
+20130611 1 13 178219 1
+20130612 3 7 36098 3
+20130613 3 3 6180 2
+20130614 5 17 186458 5
+20130615 20 22 51311 20
+20130616 18 30 213238 18
+20130617 22 22 44420 21
+20130618 20 20 41200 20
+20130619 18 18 37080 18
+20130620 18 18 37080 18
+20130621 14 14 28840 14
+20130622 20 20 41200 20
+20130623 21 33 217358 20
+20130624 22 22 45320 22
+20130625 22 22 45320 22
+20130626 19 19 39140 19
+20130627 20 20 41200 20
+20130628 19 25 86587 19
+20130629 19 21 47451 19
+20130630 16 16 32960 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 324
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 327 658609 323 323
+http://24x7-allrequestsallowed.com/ 2 4120 2 2
+END_SIDER

@@ -1,0 +1,484 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201305 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2581                
+POS_VISITOR 14275               
+POS_DAY 15660               
+POS_DOMAIN 3315                
+POS_LOGIN 3665                
+POS_ROBOT 3820                
+POS_WORMS 4441                
+POS_EMAILSENDER 4572                
+POS_EMAILRECEIVER 4715                
+POS_SESSION 16226               
+POS_SIDER 16373               
+POS_FILETYPES 4850                
+POS_OS 4970                
+POS_BROWSER 5068                
+POS_SCREENSIZE 5278                
+POS_UNKNOWNREFERER 5352                
+POS_UNKNOWNREFERERBROWSER 6127                
+POS_ORIGIN 6504                
+POS_SEREFERRALS 6638                
+POS_PAGEREFS 6793                
+POS_SEARCHWORDS 7092                
+POS_KEYWORDS 7268                
+POS_MISC 2245                
+POS_ERRORS 7351                
+POS_CLUSTER 3521                
+POS_SIDER_404 7461                
+POS_PLUGIN_geoip_city_maxmind 13442               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130601002848 69 11681 10331433792972
+FirstTime 0
+LastTime 20130531192022
+LastUpdate 20130601092341 69 0 68 0 0
+TotalVisits 39                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 14 147920 87 115 183891
+1 1 8 0 86 89 118122
+2 2 2 2227 78 81 116399
+3 1 1 1104 74 74 108407
+4 0 0 0 74 80 231628
+5 3 21 154393 112 116 136669
+6 4 16 103136 75 75 105737
+7 2 2 4120 70 71 100131
+8 1 7 49508 72 74 111251
+9 1 1 2060 60 64 129099
+10 0 0 0 67 72 130062
+11 2 20 227727 67 70 101885
+12 0 0 0 60 62 112529
+13 2 2 3221 71 71 110292
+14 1 1 1161 64 66 115430
+15 3 27 358498 85 91 132641
+16 4 40 535818 84 100 190720
+17 3 3 6180 74 78 119838
+18 0 0 0 74 74 119122
+19 3 3 3164 93 100 166445
+20 0 7 141460 91 93 122731
+21 1 1 2060 71 71 113381
+22 2 14 180279 87 89 123207
+23 2 18 175575 94 99 132952
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 17 126 1400741
+cn 11 35 206159
+unknown 5 11 57748
+lt 4 4 8240
+fr 2 26 356438
+ru 1 1 1104
+nl 1 1 2060
+se 1 1 0
+de 1 1 1104
+ph 0 2 66017
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+baiduspider 1068 2200080 20130531232920 0
+bspider 46 61195 20130528105856 0
+yandex 42 45267 20130530152948 0
+googlebot 37 119782 20130531175635 0
+bot[+:,\.\;\/\\-] 34 256090 20130531071835 0
+msnbot 29 32567 20130531051522 0
+no_user_agent 15 14420 20130526051618 0
+surveybot 6 6738 20130526020915 0
+spider 4 4492 20130526014009 0
+netcraft 3 2060 20130508161448 0
+java 1 2060 20130510151833 0
+turnitinbot 1 1123 20130501081352 0
+crawl 1 2060 20130530044818 0
+robot 3 11215 20130528164543 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 30 142400 0 0
+png 71 1268560 0 0
+html 43 57918 0 0
+js 64 630733 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 50
+winlong 15
+winxp 33
+winnt 28
+Unknown 23
+linux 59
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie8.0 1
+msie6.0 32
+firefox20.0 13
+mozilla 30
+firefox14.0.1 1
+opera 1
+firefox16.0 2
+netscape10.07 1
+lynx 4
+firefox19.0 1
+Unknown 14
+safari 107
+firefox1.0.4 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+\ 20130528162822
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130531073949
+Mozilla/5.0_(PPC)_AppleWebKit/540.0_(KHTML,_live_Gecko)_Chrome/4.0275.668_Safari/540 20130510132329
+panscient.com 20130512004837
+Mozilla/5.0_(compatible;_HttpConduitDownloader/1.0;__http://hackage.haskell.org/package/http-conduit-downloader) 20130512022808
+Mozilla/10.07 20130527224051
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130514063306
+Who.is_Bot 20130523173109
+Mozilla/3.0_(compatible;_Indy_Library) 20130530152651
+NCBot_(http://netcomber.com_:_tool_for_finding_true_domain_owners)_Queries/complaints:_bot@netcomber.com 20130531192022
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+\ 20130528162822
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130514063306
+Who.is_Bot 20130523173109
+panscient.com 20130512004837
+NCBot_(http://netcomber.com_:_tool_for_finding_true_domain_owners)_Queries/complaints:_bot@netcomber.com 20130531192022
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 31 38
+From1 0 0
+From2 2 4
+From3 6 6
+From4 4 160
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://evuln.com/tools/malware-scanner/www.microngenesis.com/ 2 2
+http://alphaviridis.com 2 2
+http://netcomber.com 1 1
+http://www.alphaviridis.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.microngenesis.com 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.microngenesis.com 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 1 786
+400 1 335
+404 683 372299
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 115
+//awstats.pl 1 -
+/robots.txt 152 -
+/a/mianfeisanjipianwangzhi/list_3_1.html 1 -
+/a/yinyinqingseyingyuan/20110115/111.html 5 -
+/a/yinyinqingseyingyuan/20110111/21.html 4 -
+/a/yinyinqingseyingyuan/20110111/25.html 4 -
+/admin.php 1 -
+/a/yinyinqingseyingyuan/ 5 -
+/a/mingxingseqingdianying/20110117/123.html 5 -
+/plus/flink_add.php 1 http://50.6.218.85/
+/trafficbasedsspsitemap.xml 4 -
+/a/yinyinqingseyingyuan/20110111/10.html 4 -
+//awstats/awstats.pl 1 -
+/a/mingxingseqingdianying/20110113/94.html 1 http://50.6.218.85/
+/a/mingxingseqingdianying/20110120/127.html 1 http://50.6.218.85/
+/a/266gaogaoqingmianfeichengrenyingyuan/ 1 -
+/a/yinyinqingseyingyuan/20110111/1.html 2 -
+//cgi-bin/awstats/awstats.pl 1 -
+/fckeditor/editor/filemanager/connectors/uploadtest.html 1 http://MICRONGENESIS.COM/fckeditor/editor/filemanager/connectors/uploadtest.html
+//README 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/36.html 2 http://50.6.218.85/
+/CFIDE/administrator/enter.cfm 1 -
+/a/yinyinqingseyingyuan/20110123/151.html 30 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 http://MICRONGENESIS.COM/FCKeditor/editor/filemanager/connectors/uploadtest.html
+/a/yinyinqingseyingyuan/20110111/62.html 5 -
+/a/yinyinqingseyingyuan/20110113/97.html 5 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/85.html 6 -
+/a/yinyinqingseyingyuan/20110111/11.html 3 -
+/img/body-bg-1.png 14 http://www.microngenesis.com/css/style.css
+/img/footer-border-green.png 12 http://www.microngenesis.com/css/style.css
+/a/yinyinqingseyingyuan/20110111/3.html 4 -
+/a/yinyinqingseyingyuan/20110113/90.html 3 -
+/a/mianfeisanjipianwangzhi/20110111/52.html 1 http://50.6.218.85/
+/js/js/jquery.countdown.min.js 4 http://50.6.218.85/
+/a/mianfeisanjipianwangzhi/20110117/118.html 4 -
+/a/yinyinqingseyingyuan/list_1_2.html 34 -
+/a/mianfeisanjipianwangzhi/20110115/108.html 2 http://50.6.218.85/
+/a/yinyinqingseyingyuan/20110111/50.html 31 -
+/a/yinyinqingseyingyuan/20110111/84.html 32 -
+/a/yinyinqingseyingyuan/20110111/59.html 2 -
+/css/css/reset.css 4 http://50.6.218.85/
+/a/yinyinqingseyingyuan/20110111/69.html 6 -
+/a/mingxingseqingdianying/20110111/76.html 1 -
+/a/mianfeisanjipianwangzhi/20110117/116.html 3 -
+/a/mianfeisanjipianwangzhi/20110111/51.html 1 http://50.6.218.85/
+/js/js/jquery.validate.min.js 4 http://50.6.218.85/
+/admin/fckeditor/editor/filemanager/connectors/uploadtest.html 1 http://MICRONGENESIS.COM/admin/fckeditor/editor/filemanager/connectors/uploadtest.html
+/a/yinyinqingseyingyuan/20110111/64.html 4 -
+/a/mingxingseqingdianying/20110111/72.html 2 -
+/plus/flink.php 1 -
+/FCKeditor/editor/filemanager/upload/test.html 1 http://MICRONGENESIS.COM/FCKeditor/editor/filemanager/upload/test.html
+/a/mingxingseqingdianying/20110115/110.html 5 -
+/js/js/main.js 4 http://50.6.218.85/
+/a/yinyinqingseyingyuan/list_1_4.html 2 -
+/a/mingxingseqingdianying/20110111/5.html 1 -
+/wp-login.php 3 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110123/160.html 2 -
+/css/css/style.css 4 http://50.6.218.85/
+/a/266gaogaoqingmianfeichengrenyingyuan/20110117/120.html 5 -
+/a/266gaogaoqingmianfeichengrenyingyuan/list_2_2.html 1 http://50.6.218.85/
+/a/mianfeisanjipianwangzhi/20110123/159.html 3 -
+/a/mianfeisanjipianwangzhi/20110120/146.html 1 http://50.6.218.85/
+/a/yinyinqingseyingyuan/20110120/132.html 5 -
+/a/mingxingseqingdianying/20110117/117.html 5 -
+//stats/awstats.pl 1 -
+/css/fonts/bebasneue-webfont.svg 13 http://www.microngenesis.com/
+/a/yinyinqingseyingyuan/20110120/148.html 2 -
+/a/mianfeisanjipianwangzhi/20110111/44.html 1 http://50.6.218.85/
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/41.html 1 -
+/a/yinyinqingseyingyuan/20110123/153.html 4 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/22.html 2 -
+/a/mianfeisanjipianwangzhi/ 2 -
+/a/yinyinqingseyingyuan/20110111/54.html 5 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110115/113.html 4 -
+/user/login/index.php 1 -
+/a/yinyinqingseyingyuan/20110111/31.html 33 -
+/a/yinyinqingseyingyuan/20110111/27.html 3 -
+/a/266gaogaoqingmianfeichengrenyingyuan/list_2_3.html 1 http://50.6.218.85/
+/a/mingxingseqingdianying/ 1 -
+/a/yinyinqingseyingyuan/20110113/105.html 3 -
+/icons/apache_pb.gif 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/91.html 1 -
+/a/yinyinqingseyingyuan/20110113/87.html 4 -
+/a/yinyinqingseyingyuan/20110113/104.html 5 -
+/a/yinyinqingseyingyuan/20110111/71.html 1 -
+/a/yinyinqingseyingyuan/20110113/89.html 6 -
+/css/fonts/bebasneue-webfont.woff 10 http://www.microngenesis.com/css/style.css
+/administrator/index.php 2 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/102.html 2 http://50.6.218.85/
+//cgi-bin/stats/awstats.pl 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110113/103.html 1 -
+/a/yinyinqingseyingyuan/20110123/156.html 5 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 http://MICRONGENESIS.COM/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html
+/a/yinyinqingseyingyuan/list_1_1.html 5 -
+/a/mingxingseqingdianying/20110113/101.html 3 -
+/recordings/locale/10100.php 1 -
+/css/fonts/bebasneue-webfont.ttf 14 http://www.microngenesis.com/css/style.css
+/a/yinyinqingseyingyuan/list_1_3.html 5 -
+/a/mingxingseqingdianying/20110120/142.html 5 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/33.html 35 -
+/manager/status 1 -
+/manager/html 2 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110120/137.html 1 http://50.6.218.85/
+/a/mingxingseqingdianying/20110111/18.html 1 http://50.6.218.85/
+/images/transparent.gif 3 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/43.html 2 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/29.html 1 -
+/a/266gaogaoqingmianfeichengrenyingyuan/20110111/70.html 1 -
+/a/mingxingseqingdianying/20110117/125.html 5 -
+/js/js/html5.js 4 http://50.6.218.85/
+/a/yinyinqingseyingyuan/20110115/114.html 3 -
+/a/mingxingseqingdianying/20110120/136.html 4 -
+/a/yinyinqingseyingyuan/20110111/58.html 5 -
+//cgi/awstats.pl 1 -
+/a/mingxingseqingdianying/20110123/158.html 3 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 19
+unknown 0 36 0 0
+us_bloomingdale_il 0 32 0 0
+cn_beijing_22 0 32 0 0
+us_hoffman%20estates_il 0 26 0 0
+us_simi%20valley_ca 0 13 0 0
+us_columbus_oh 0 13 0 0
+us_glendale%20heights_il 0 13 0 0
+fr_bordeaux_97 0 13 0 0
+fr_barcelonnette_b8 0 13 0 0
+lt_vilnius_65 0 4 0 0
+us_redondo%20beach_ca 0 1 0 0
+us_sterling_va 0 2 0 0
+cn_tianjin_28 0 3 0 0
+ru_saint%20petersburg_66 0 1 0 0
+se_stockholm_26 0 1 0 0
+us_overland%20park_ks 0 1 0 0
+nl_amsterdam_07 0 1 0 0
+ph_makati_d9 0 2 0 0
+us_dallas_tx 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+78.158.11.226 4 4 8240 20130531073949
+99.52.168.139 3 32 353794 20130526015710
+124.115.10.64 3 21 148524 20130529050046
+69.58.178.56 2 2 4120 20130514063306
+124.115.11.187 2 2 2322 20130528003922
+67.184.94.35 2 26 356438 20130523164622
+124.115.1.60 2 2 2322 20130528003913
+174.36.196.245 1 1 2060 20130523173109
+54.242.129.26 1 1 1104 20130502034430
+108.171.251.170 1 1 2060 20130530152651
+199.30.25.109 0 6 54216 
+5.135.125.178 1 1 2060 20130520091336
+123.151.148.211 1 1 1161 20130512050338
+199.30.25.119 0 7 141460 
+82.249.177.248 1 13 178219 20130501114935
+124.115.10.68 1 7 49508 20130515064922
+213.172.21.168 1 1 1104 20130512022808
+123.151.148.201 1 1 1161 20130528162822
+71.177.141.90 1 1 1123 20130520020744
+98.227.222.74 1 13 178219 20130522222433
+206.225.83.83 1 1 1161 20130515130715
+94.102.51.246 1 1 2060 20130515190955
+108.14.224.94 1 8 77259 20130512004830
+46.229.165.195 1 1 2060 20130527224051
+98.130.1.65 1 13 178219 20130509153003
+208.54.80.214 1 7 0 20130523235446
+85.25.137.24 1 1 1104 20130531192022
+194.12.64.4 1 1 0 20130502190104
+23.20.4.86 1 7 49508 20130514084525
+222.127.214.190 0 2 66017 
+198.27.74.8 1 1 2060 20130510132329
+54.215.100.12 1 1 2060 20130524214016
+123.151.139.214 1 1 1161 20130513145826
+87.88.171.248 1 13 178219 20130515162912
+54.225.13.31 1 7 49508 20130514110830
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20130501 1 13 178219 1
+20130502 2 2 1104 2
+20130504 0 6 54216 0
+20130505 0 7 141460 0
+20130507 2 2 2322 2
+20130509 1 13 178219 1
+20130510 1 3 68077 1
+20130511 2 2 4120 1
+20130512 3 10 79524 3
+20130513 1 1 1161 1
+20130514 4 16 103136 3
+20130515 5 29 280456 5
+20130519 1 13 178219 1
+20130520 2 2 3183 2
+20130521 1 13 178219 1
+20130522 2 24 353794 2
+20130523 3 21 180279 3
+20130524 1 1 2060 1
+20130526 1 8 0 1
+20130527 1 1 2060 1
+20130528 3 3 3483 3
+20130529 2 14 99016 1
+20130530 1 1 2060 1
+20130531 3 3 5224 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 39
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 42 55858 38 38
+http://24x7-allrequestsallowed.com/ 1 2060 1 1
+END_SIDER

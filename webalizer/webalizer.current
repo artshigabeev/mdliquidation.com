@@ -1,0 +1,500 @@
+# Webalizer V2.20-01 Incremental Data - 01/05/2017 02:19:08
+2017 1 5 2 19 8
+180 100 87 18 4 27 1474681 102 89 0
+9 2 19 1 5
+40 19 155827 30 25 24
+29 13 120395 17 18 15
+35 24 330355 25 21 21
+63 35 689464 27 27 21
+13 9 178640 9 11 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 6 153666 5
+11 6 58565 9
+5 3 31200 5
+3 1 11394 1
+3 0 1491 0
+3 3 31200 3
+11 4 44085 7
+24 15 373267 7
+4 3 31697 3
+9 6 31200 6
+8 3 22291 4
+5 2 21945 5
+8 2 23782 5
+6 1 11620 4
+4 3 16173 1
+3 2 8422 1
+4 1 497 2
+3 1 11394 1
+11 8 60398 9
+2 1 10897 1
+5 3 31697 4
+15 11 216415 5
+22 14 260488 11
+4 1 10897 3
+0
+0
+0
+100
+0
+0
+0
+0
+0
+0
+0
+32
+0
+0
+0
+0
+0
+2
+0
+0
+0
+44
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 62 0 614469 81 17
+/index/wp-includes/js/comment-reply.min.js
+0 1 502339216 1078 0 0
+/index/wp-content/plugins/wp-excel-cms/public/assets/css/public.css
+0 3 0 246 0 0
+/index/wp-includes/js/wp-embed.min.js
+0 1 502330096 1403 0 0
+/index/wp-content/uploads/2016/08/cropped-Screen-shot-2013-06-17-at-2.56.54-PM-192x192.png
+0 1 0 6008 0 0
+/index/
+0 3 0 33918 3 0
+/index/wp-content/themes/docpress/assets/bootstrap/css/bootstrap.min.css
+0 3 0 387282 0 0
+/index/wp-content/themes/docpress/style.css
+0 3 0 52311 0 0
+/index/wp-content/plugins/wp-excel-cms/public/assets/js/public.js
+0 1 0 116 0 0
+/index/wp-cron.php
+0 11 0 0 0 0
+/index/wp-content/uploads/2016/08/cropped-Screen-shot-2013-06-17-at-2.56.54-PM-32x32.png
+0 1 0 634 0 0
+/index/wp-content/themes/docpress/assets/bootstrap/js/bootstrap.min.js
+0 1 0 35951 0 0
+/index/wp-includes/wlwmanifest.xml
+0 1 0 1045 0 0
+/index/wp-content/themes/docpress/assets/font-awesome/css/font-awesome.min.css
+0 3 0 80133 0 0
+/index/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 20112 0 0
+/index/wp-includes/js/wp-emoji-release.min.js
+0 1 502329792 10414 0 0
+/index/wp-includes/js/jquery/jquery.js
+0 1 502329664 97184 0 0
+/index/wp-content/uploads/2016/09/avg_Logo_small_2-1.png
+0 1 8026310038524159340 109482 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 0 0 1 1483268596
+/
+43.249.205.169
+0 1 0 497 1 1483253243
+-
+100.34.1.117
+0 1 0 0 1 1483524008
+/
+crawl-66-249-64-156.googlebot.com
+0 1 0 0 1 1483563869
+/
+bland-address.somebeat.com
+0 1 1 10400 1 1483424074
+/
+host229-209-43-185.static.arubacloud.com
+0 1 0 497 0 0
+-
+185.110.132.231
+0 1 1 8422 1 1483545266
+/
+node-coi-58.markingchoice.com
+0 1 1 10400 1 1483486648
+/
+baiduspider-180-76-15-24.crawl.baidu.com
+0 1 1 9034 1 1483365749
+/
+spider-100-43-81-142.yandex.com
+0 2 1 1131 0 0
+-
+crawl-66-249-64-62.googlebot.com
+0 2 1 10897 1 1483577606
+/
+crawl-66-249-64-160.googlebot.com
+0 2 0 497 1 1483578040
+/index/
+nc-clag-edate.somebeat.com
+0 1 1 10400 1 1483231431
+/
+host245-50-8-185.static.arubacloud.fr
+0 1 0 497 0 0
+-
+chaucer.relay.coldhak.com
+0 1 1 10400 1 1483553807
+/
+ppwhs13.nlglasses.com
+0 1 1 10400 1 1483495491
+/
+crawl-66-249-69-246.googlebot.com
+0 2 2 19147 2 1483308204
+/
+dsl-187-131-45-99-dyn.prod-infinitum.com.mx
+0 1 0 0 1 1483255134
+/
+msnbot-40-77-167-68.search.msn.com
+0 1 1 10400 1 1483247435
+/
+crawl-66-249-69-250.googlebot.com
+0 4 2 23191 2 1483339650
+/
+msnbot-157-55-39-73.search.msn.com
+0 3 2 108095 0 0
+-
+46.229.164.100
+0 3 0 1491 0 0
+-
+baiduspider-180-76-15-138.crawl.baidu.com
+0 2 2 20456 1 1483569165
+/
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 1 11306 1 1483529977
+/index/
+msnbot-157-55-39-11.search.msn.com
+0 12 9 183345 4 1483562291
+/
+spider-141-8-143-158.yandex.com
+0 1 1 6008 0 0
+-
+38.100.21.65
+0 7 6 184811 1 1483480807
+/
+lv-67-239-215-4.dhcp.embarqhsd.net
+0 1 0 0 1 1483440461
+/
+static-96-241-39-2.washdc.fios.verizon.net
+0 1 0 0 1 1483363052
+/
+76.163.86.3
+0 11 11 0 0 0
+-
+ktnron060mw-lp140-02-184-145-34-7.dsl.bell.ca
+0 1 0 0 1 1483486783
+/
+218.10.51.26
+0 1 1 4178 1 1483466653
+/
+ppwhs17.dkkglasses.com
+0 1 1 10400 1 1483238308
+/
+li1570-99.members.linode.com
+0 1 1 10400 1 1483466668
+/
+7c.e9.36a9.ip4.static.sl-reverse.com
+0 1 0 0 1 1483560273
+/
+79-114-126-136.rdsnet.ro
+0 1 0 0 1 1483350133
+/
+ppwhs17.doodooss.com
+0 1 1 10400 1 1483248895
+/
+host-185-25-249-77.hgdata.sk
+0 1 0 0 1 1483567207
+/
+crawl-66-249-64-183.googlebot.com
+0 3 3 28527 2 1483577942
+/
+dsl-201-137-236-108-dyn.prod-infinitum.com.mx
+0 1 0 0 1 1483250465
+/
+crawl-66-249-79-176.googlebot.com
+0 2 1 10897 1 1483260093
+/
+185a49b14c190.greendata.pl
+0 3 0 1491 0 0
+-
+static.vnpt.vn
+0 1 0 497 0 0
+-
+82.165.74.222
+0 1 1 10400 1 1483447351
+/
+msnbot-157-55-39-32.search.msn.com
+0 13 11 154971 7 1483557324
+/
+msnbot-157-55-39-155.search.msn.com
+0 6 5 52497 5 1483438213
+/
+220-135-118-53.hinet-ip.hinet.net
+0 3 0 1491 0 0
+-
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 10400 1 1483268597
+/
+crawl-66-249-64-187.googlebot.com
+0 5 4 157376 1 1483578226
+/
+bzq-105-168-31-117.red.bezeqint.net
+0 1 0 0 1 1483349452
+/
+27.10.78.178
+0 1 1 10400 1 1483466651
+/
+crawl-66-249-64-191.googlebot.com
+0 3 3 35540 1 1483578243
+/
+tor-exit.xshells.net
+0 1 0 0 1 1483553806
+/
+ppwhs18.doodooss.com
+0 1 1 10400 1 1483415493
+/
+1-34-171-95.hinet-ip.hinet.net
+0 1 0 0 1 1483287487
+/
+crawl-66-249-66-95.googlebot.com
+0 1 1 10400 1 1483232684
+/
+tor-exit.csail.mit.edu
+0 1 0 0 1 1483582746
+/
+175.137.121.64
+0 1 0 0 1 1483436587
+/
+crawl-66-249-69-215.googlebot.com
+0 2 0 497 1 1483339649
+/
+li1562-104.members.linode.com
+0 1 1 10400 1 1483466653
+/
+c-50-150-113-60.hsd1.ca.comcast.net
+0 1 0 0 1 1483313144
+/
+b39ec895.virtua.com.br
+0 6 1 12885 1 1483359639
+-
+researchscan351.eecs.umich.edu
+0 1 0 226 1 1483277768
+-
+crawl-66-249-69-19.googlebot.com
+0 1 1 10400 1 1483351189
+/
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 0 0 1 1483529972
+-
+95.73.167.134
+0 2 1 10400 1 1483235400
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 0 239 1 1483529971
+-
+crawl-66-249-69-23.googlebot.com
+0 2 1 10897 1 1483337510
+/
+186-183-141-12.telebucaramanga.net.co
+0 1 0 0 1 1483255004
+/
+baiduspider-180-76-15-161.crawl.baidu.com
+0 3 2 20842 2 1483334909
+/
+hn.kd.ny.adsl
+0 1 1 4178 1 1483466656
+/
+c-76-31-153-13.hsd1.tx.comcast.net
+0 1 0 0 1 1483429422
+/
+li741-218.members.linode.com
+0 1 1 10400 1 1483466651
+/
+crawl-66-249-69-219.googlebot.com
+0 1 0 497 0 0
+-
+crawl-66-249-64-6.googlebot.com
+0 1 1 109482 0 0
+-
+91a196b50c33.greendata.pl
+0 1 0 497 0 0
+-
+crawl-66-249-69-223.googlebot.com
+0 1 0 0 1 1483277184
+/
+secreto21.idfnv.net
+0 1 1 10400 1 1483582748
+/
+46.229.164.98
+0 3 0 1491 0 0
+-
+212-129-5-109.rev.poneytelecom.eu
+0 1 0 0 0 0
+-
+45.55.37.222
+0 3 1 11394 1 1483550118
+/
+1-34-232-48.hinet-ip.hinet.net
+0 1 0 0 1 1483495564
+/
+69.58.178.58
+0 10 4 46130 1 1483569585
+/
+bzq-82-81-235-63.cablep.bezeqint.net
+0 1 0 0 1 1483469554
+/
+save-jobs-mesh.centeropen.com
+0 1 1 10400 1 1483432210
+/
+dynamic-190-25-55-19.dynamic.etb.net.co
+0 1 0 0 1 1483288606
+/
+crawl-66-249-64-3.googlebot.com
+0 2 1 10639 1 1483578040
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-64-62.googlebot.com
+0 2 1 10897 1 1483577606
+/
+crawl-66-249-64-160.googlebot.com
+0 1 0 0 1 1483578040
+/index/
+crawl-66-249-64-183.googlebot.com
+0 1 1 690 1 1483577942
+/
+crawl-66-249-64-187.googlebot.com
+0 3 3 27785 1 1483578226
+/
+crawl-66-249-64-191.googlebot.com
+0 1 1 8747 1 1483578243
+/
+tor-exit.csail.mit.edu
+0 1 0 0 1 1483582746
+/
+crawl-66-249-64-6.googlebot.com
+0 1 1 109482 0 0
+-
+secreto21.idfnv.net
+0 1 1 10400 1 1483582748
+/
+crawl-66-249-64-3.googlebot.com
+0 2 1 10639 1 1483578040
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 164
+http://store.nike.com
+0 1
+http://www.mdliquidation.com/
+1 4
+http://www.mdliquidation.com/index/wp-cron.php
+1 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 13
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 11
+Python-urllib/2.7
+0 2
+Mozilla/5.0 (compatible; SemrushBot/1.1~bl; +http://www.semrush.com/bot.html)
+0 6
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 7
+Scanbot
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 51
+Mozilla/5.0 zgrab/0.x
+0 1
+Wget(linux)
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Saf
+0 4
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 2
+python-requests/2.12.4
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0
+0 4
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 8
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 3
+Telesphoreo
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36
+0 2
+curl/7.15.5 (x86_64-redhat-linux-gnu) libcurl/7.15.5 OpenSSL/0.9.8b zlib/1.2.3 libidn/0.6.5
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:9.0.1) Gecko/20100101 Firefox/12.0.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 4
+WordPress/4.6; http://www.mdliquidation.com
+0 11
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

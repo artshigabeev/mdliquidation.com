@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Datascope Gas Module SE]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda Gas Gas Analyzer E-CAIO-00]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda Gas Analyzer E-CAIOV]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda Gas Analyzer M-CAIO]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE Datex-Ohmeda Gas Analyzer M-CAIOV]]></name>
+	</node>
+	<node>
+		<name><![CDATA[GE SAM Gas Analyzer]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1019A G5 Anesthetic Gas Analyzer]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1026A Anesthetic Gas Analyzer]]></name>
+	</node>
+	<node>
+		<name><![CDATA[Philips M1026B Anesthetic Gas Analyzer]]></name>
+	</node>
+</data>

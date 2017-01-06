@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Microngenesis Labs</title>
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/reset.css" title="" type="text/css" media="screen">
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+        <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="js/html5.js"></script>
+    </head>
+    <body id="body" class="bg1 color-green">
+    <div id="wrapper">
+      <!-- MAIN CONTENT  -->
+      <section id="content">
+        <h1 id="main-head"><img src="img/ave-logo.png" alt="alphaviridis logo" width="1000"></h1>
+        <!-- END MAIN CONTENT  -->
+        <div class="aside" id="timer"></div>
+      </section>
+      <aside id="newsletter">
+        <div class="wrapper">
+          <form action="/" id="newsletter-form" method="post">
+            <p>
+              <label for="email" class="main">Stay informed when we will be back</label>
+              <input type="text" name="email" class="email required" id="email" placeholder="Email address" />
+            </p>
+            <input type="submit" value="Notify me" class="submit" />
+          </form>
+        </div>
+      </aside>
+    </div>
+    <div style="background-color:#366b16">
+<footer id="footer">
+                <div class="wrapper" style="background-color:#366b16; color:#FFF; font-size:14px;">
+&copy;2015 . All Rights Reserved . A Subsidiary Of <a href="http://www.alphaviridis.com" target="_blank"><img src="img/avg_logo_216x84.png" alt="Alpha Viridis Logo" width="184" height="72" align="absmiddle"></a></div>
+            </footer>
+    </div>
+        
+</body>
+</html>
